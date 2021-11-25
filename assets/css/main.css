@@ -4821,11 +4821,11 @@ a img {
 }
 
 #particles-js {
-    background: #1488CC;
+    background: #3a0103;
     /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #2B32B2, #1488CC);
+    background: -webkit-linear-gradient(to right, #7629a3, #a01111fa);
     /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #2B32B2, #1488CC);
+    background: linear-gradient(to right, #3f015c, #266e97af);
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
     display: flex;
@@ -5116,7 +5116,9 @@ a img {
     color: #fff
 }
 
-.footer .love {
+.footer .love {Thank you for checking out my website, 
+My name is Sergei Mikerin!
+
     color: red
 }
 
